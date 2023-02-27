@@ -1,5 +1,7 @@
-package com.hello.demo.student;
+package com.hello.demo.student.controller;
 
+import com.hello.demo.student.dto.Student;
+import com.hello.demo.student.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.hello.demo.student;
+package com.hello.demo.student.dto;
 
 import javax.persistence.*;
 import java.time.LocalDate;
