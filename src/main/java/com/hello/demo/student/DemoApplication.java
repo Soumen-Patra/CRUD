@@ -1,4 +1,4 @@
-package com.hello.demo;
+package com.hello.demo.student;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
